@@ -1,0 +1,6 @@
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\bin\Debug\Holmes.exe.config
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\bin\Debug\Holmes.exe
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\bin\Debug\Holmes.pdb
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\obj\Debug\Holmes.csprojResolveAssemblyReference.cache
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\obj\Debug\Holmes.exe
+C:\Users\Michael.Moss\Documents\Visual Studio 2013\Projects\Holmes\Holmes\obj\Debug\Holmes.pdb
